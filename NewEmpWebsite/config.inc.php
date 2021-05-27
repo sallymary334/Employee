@@ -5,6 +5,7 @@
 	<title>Untitled Document</title>
 </head>
 <body>
+	
 	<?php
 	define('DB_HOST','localhost');
 	define('DB_UN','root');
